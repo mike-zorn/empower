@@ -45,7 +45,7 @@ flag_management:
     statuses:
       - type: project
         target: auto
-        threshold: 1%
+        threshold: 2%
 
 component_management:
   default_rules:
